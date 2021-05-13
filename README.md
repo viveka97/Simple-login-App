@@ -1,2 +1,2 @@
-# Mini-Travelling-App
-This is a travelling app created by using Java and XML. 
+# Simple Login App
+This is a Simple login app created by using Java and XML. 
